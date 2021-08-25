@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Isidora.
+- 👀 I’m interested in languages.
+- 🌱 I’m currently learning English, German, Greek / HTML5, CSS3, JavaScript.
